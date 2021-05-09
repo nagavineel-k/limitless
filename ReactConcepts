@@ -1,0 +1,11 @@
+1) Stateless vs Statefull components
+2) Class Based vs Functional COmponents
+3) Component Lifecycle 
+4) useState, useEffect
+5) React.memo()
+6) Pure Components
+7) Auxilary (Aux) Component
+8) React.fragment
+9) Higher order Components
+
+10) Reducer
